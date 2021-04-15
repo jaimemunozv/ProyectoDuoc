@@ -1,0 +1,183 @@
+.div-centrado {
+	
+	margin-top: 20px !important;
+	max-width: 300px;
+	margin: auto;
+	
+
+}
+
+body{
+    height: 100%;
+    margin: 0;
+}
+
+.div-centrado2 {
+	width: 118%;
+    height: 25%;
+	margin: 10px;
+}
+	
+.div-registro{
+	width: 30%;
+	background-color: rgb(236, 236, 236);
+	margin-left: 10%;
+	float: left;
+}
+
+.div-login{
+	margin-top: 10%;
+	width: 30%;
+	background-color: rgb(236, 236, 236);
+	margin-left: 15%;
+	float: left;
+}
+
+.h2-reg{
+	text-align: center;
+	margin-top: 2%;
+}
+
+.div-forms{
+	box-sizing: border-box;
+	margin-top: 5%;
+	margin-right: 5%;
+}
+
+.p-terminos{
+	text-align: center;
+	font-size: small;
+	font-weight: bold;
+	font-family: Arial ;
+}
+
+footer{
+	position: relative;
+	margin-top: 60%;
+	width: 100%;
+	padding: 1%;
+	clear: both;
+	background: darkgoldenrod;
+}
+
+.div-head-logo{
+	margin-bottom: 20px;
+	text-align: center;
+}
+
+.div-rrss{
+	position: absolute;
+	right: 5%;
+	top: 45px;
+}
+
+.s-sepa{
+
+	position: relative;
+	top: -3px;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-weight: bolder;
+	font-size: x-large;
+	color: goldenrod;
+}
+
+a{
+	color: black;
+	font-family: sans-serif;
+	line-height: 1.5;
+	font-size: 18px;
+	letter-spacing: 0.5px;
+	font-weight: lighter;
+}
+
+a:hover {
+	color: goldenrod;
+  }
+
+ul{
+	border-top: 1px solid goldenrod;
+	padding-top: 5px;
+	margin-top: 1%;
+}
+
+.div-contacto{
+	box-sizing: border-box;
+	margin-top: 5%;
+	width: 40%;
+	background-color: rgb(216, 216, 216);
+	float: left;
+	margin-left: 30%;
+	padding: 5%;
+	border-radius: 15px;
+	border: 2px solid;
+	margin-bottom: -20%;
+}
+
+#inp-comentario{
+	min-height: 36px;
+	height: 144px;
+}
+
+.h2-contact{
+	text-align: center;
+	margin-top: -10%;
+
+}
+
+.h2-denuncias{
+	text-align: center;
+	margin-top: -12%;
+}
+
+.div-h{
+margin: 100px;
+margin-inline: 50px;
+font-family: 'Didot';
+font-style:italic;
+color: brown;
+}
+
+.div-princ{
+	margin: 100px;
+	margin-inline: 50px;
+	font-family:  'Didot';
+	font-style:italic;
+	color: brown;
+	}
+.div-tienda {
+	
+	margin-top: 50px !important;
+	max-width: 300px;
+	margin: left;
+	}
+.div-tienda2 {
+	
+    margin-top: 50px !important;
+	max-width: 300px;
+	margin: left;
+	margin: 10px
+	}
+
+.div-somos{
+	margin-top: 10%;
+}
+
+#inp-comentario-2{
+	height: 300px;
+	width: 100%;
+}
+
+.div-denuncia{
+	box-sizing: border-box;
+	margin-top: 5%;
+	width: 50%;
+	background-color: rgb(216, 216, 216);
+	float: left;
+	margin-left: 25%;
+	padding: 5%;
+	border-radius: 15px;
+	border: 2px solid;
+	margin-bottom: 5%;
+	text-align: left;
+}
